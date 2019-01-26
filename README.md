@@ -1,3 +1,3 @@
 # C
 
-Simple C files from the beginning
+Mainly old C files, includes C++ project
